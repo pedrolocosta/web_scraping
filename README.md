@@ -4,10 +4,11 @@ Read the README carefully
 Performing web scraping is not illegal, but you need authorization from the website that will provide the information
 
 To find out if the site authorizes you to perform web scraping, I recommend that you perform these actions first:
-     # Check the bottom of the page for any information
-         If you do not have the next item
+
+- Check the bottom of the page for any information
+     - If you do not have the next item
         
-     # At the end of the URL type: 'robots.txt'
+- At the end of the URL type: 'robots.txt'
          This page tells robots (from google for example) what can and cannot be copied and the rules for doing so
          Obey these rules
          If there is no rule, consult the site manager
