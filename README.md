@@ -14,7 +14,8 @@ To find out if the site authorizes you to perform web scraping, I recommend that
      - If there is no rule, consult the site manager
         
 - If you don't know if you have an authorization, don't do web scraping
-     
+
+_______________________________________________________________________________________________________________________________________
 
 Realizar web scraping não é ilegal, mas precisa de autorização do site que irá ceder as informações
 
