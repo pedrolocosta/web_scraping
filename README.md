@@ -1,5 +1,4 @@
 # webScraping
-Read the README carefully
 
 Performing web scraping is not illegal, but you need authorization from the website that will provide the information
 
