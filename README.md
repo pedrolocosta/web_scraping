@@ -1,4 +1,10 @@
-# webScraping
+# web scraping - Raspagem de dados na web
+
+##O que é
+A raspagem de dados (data scraping) é uma técnica computacional de coleta automatizada de dados. Durante o curso focaremos no web scraping, cuja finalidade consiste em extrair dados que podem ser visualizados em um navegador web.
+
+
+## Warning - Atenção
 
 Performing web scraping is not illegal, but you need authorization from the website that will provide the information
 
