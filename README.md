@@ -8,7 +8,7 @@ Data scraping is a computational technique for automated data collection. The we
 A raspagem de dados é uma técnica computacional de coleta automatizada de dados. No web scraping a finalidade consiste em extrair dados que podem ser visualizados em um navegador web.
 
 
-## Legal Warning - Aviso Atenção
+## Legal Warning - Aviso Legal
 
 Performing web scraping is not illegal, but you need authorization from the website that will provide the information
 
